@@ -6,3 +6,7 @@
 * Containers
 * Rows
 * Columns
+# Concepts
+* xs,sm,md,lg,xl
+* Determines Breakpoint and Above
+* Can be stacked!
